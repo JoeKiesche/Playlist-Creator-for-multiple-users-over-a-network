@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Server
+comment1.params=
+comment1.target=Server()
+comment1.text=\r\n\ METHOD\ -\ server\r\n\ PARAMETERS\ -\ None\r\n\ RETURNS\ -\ None\r\n
+comment2.params=song
+comment2.target=void\ addSong(java.lang.String)
+comment2.text=\r\n\ METHOD\ -\ addSong\:\ takes\ the\ name\ of\ the\ song\ given\ by\ the\ user\ and\ adds\ it\ to\ the\ playlist\r\n\ PARAMETER\ -\ String\ of\ the\ song\ name\r\n\ RETURNS\ -\ None\r\n
+comment3.params=index
+comment3.target=void\ removeSong(int)
+comment3.text=\r\n\ METHOD\ -\ removeSong\r\n\ PARAMETER\ -\ Int\ of\ the\ number\ song\ user\ wants\ removed\r\n\ RETURNS\ -\ None\ \ \ \r\n
+comment4.params=
+comment4.target=void\ printSongs()
+comment4.text=\r\n\ METHOD\ -\ printSongs\r\n\ PARAMETER\ -\ None\r\n\ RETURNS\ -\ NONE\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getSongsList()
+comment5.text=\r\n\ METHOD\ -\ getSongsList\r\n\ PARAMETER\ -\ None\r\n\ RETURNS\ -\ ArrayList\ called\ songs\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ MAIN\ FUNCTION\r\n
+numComments=7

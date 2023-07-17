@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Message
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Message\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=songName\ userName
+comment1.target=Message(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Message\ object\ Constructor\r\n\ PARAMETERS\ -\ String\ songName\ and\ String\ userName\r\n\ RETURNS\ -\ None\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSongName()
+comment2.text=\r\n\ METHOD\ -\ getSongName\r\n\ PARAMETER\ -\ None\r\n\ RETURNS\ -\ songName\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getUserName()
+comment3.text=\r\n\ METHOD\ -\ getUserName\r\n\ PARAMETER\ -\ None\r\n\ RETURNS\ -\ userName\r\n
+numComments=4
