@@ -15,7 +15,7 @@ VERSION or DATE:
 Prototype
 
 HOW TO START THIS PROJECT:
-Open up to instances of the blueJ program, 
+Open up two instances of the blueJ program, 
 1. run the server class on one with no parameters
 2. run the client with parameters being
 	- "localhost"
